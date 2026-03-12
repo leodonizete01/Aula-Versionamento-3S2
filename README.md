@@ -18,4 +18,5 @@ O arquivo `README.md` é a vitrine ou a "capa" do seu projeto. É a primeira coi
 
 Mande o seu recado aqui:
 ---
+Leonardo Donizete: Caio é um dos melhores professores ("Sinta a lamina do ciber_demonio" Genji)
 *Feito com 💻 e foco pela nossa turma de Desenvolvimento de Sistemas.*
